@@ -1,0 +1,70 @@
+//VT
+給某人提供某物 + jm(D) etw(A)
+bieten bot geboten
+= anbieten(VT)(供應)
+我能給您提供幫助嗎?
+Darf ich Ihnen meine Hilfe bieten?
+//VT
+綑綁，包紮 + etw(A)
+binden band gebunden
+他把花扎成花束。
+Er hat die Blumen zu einem Strauß gebunden.
+警察將他的手綁起來。
+Der Polizei band ihm die Hände.
+//VI
+1. 停留，逗留，待在 + O 2. 依然，保持 + adj.
+bleiben blieb geblieben
+你們打算在上海待多久?
+Wie lange wollt ihr in Shanghai bleiben?
+我們在柏林待了3天。
+Wir sind drei Tage in Berlin geblieben.
+為什麼她仍然保持那麼年輕?
+Warum bleibt sie noch so jung?
+許多人喝咖啡是為了保持頭腦清醒。
+Viele trinken Kaffee, um munter zu bleiben.
+//VI
+1. 開花 2. 繁榮，興盛
+blühen blühte geblüht
+春天玫瑰花開。
+Im Frühling blühen die Rosen.
+在過去的幾年中工業呈現出繁榮景象。
+In den letzten Jahren blühte die Industrie.
+//adj
+興盛的，繁榮的
+blühend
+//VT
+在...上鑽孔 + etw(A)
+bohren bohrte gebohrt
+你能在牆上鑽個孔嗎?
+Kannst du ein Loch in die Wand bohren?
+//VI
+大量增長
+boomen boomte geboomt
+從1949年至1959年中國人口數量急遽增長。
+Von 1949 bis 1959 boomte die chinesische Bevölkerung.
+//noun
+大量增加，急遽增長
+der Boom
+//VTR
+1. 借給某人某物 + jm(D) etw(A) 2. 從某人處借得某物 + sich(D) von jm(D) etw(A)
+borgen borgte geborgt
+= leihen(VT)(借)
+他借給我一本小說。
+Er borgt mir einen Roman.
+她從她最要好的女朋友那裡借得了一輛汽車。
+Sie hat sich von ihrer besten Freundin ein Auto geborgt.
+//VT
+煎，炸 + etw(A)
+braten briet gebraten
+你把土豆炸好了嗎?
+Hast du die Kartoffeln gebraten?
+//noun
+烤肉，煎肉
+der Braten
+//VT
+1. 需要 + etw(A) 2. 必須做某事 + brauchen etw. zu tun
+brauchen brauchte gebraucht
+我需要你的指導。
+Ich brauche deine Hinweise.
+今天是周日，因此我不必很早起床。
+Heute ist doch Sonntag, deshalb brauche ich nicht früh aufzustehen.
