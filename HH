@@ -1,0 +1,87 @@
+//VR
+堆積，成堆 + sich(A)
+häufen häufte gehäuft
+桌上堆著我今天必須讀完的文件。
+Auf dem Tisch häufen sich die Dokumente, die ich heute durchlesen muss.
+//VT
+舉起 + etw(A)
+heben hob gehoben
+凡是想回答問題的人必須立即高舉左手。
+Wer die Frage beantworten möchte, (der) muss sofort die linke Hand hoch heben.
+//adj
+高雅的
+gehoben
+//VT
+1. 愛護，呵護 + jn(A)/etw(A) 2. 懷有，持有 + etw(A)
+hegen hegte gehegt
+所有的父母們都呵護他們自己的孩子們。
+Alle Eltern hegen ihre eigenen Kinder.
+他經常對公司心存不滿。
+Er hegt oft Unzufriedenheit gegen seine Firma.
+//VIT
+1. 治癒 + etw(A) 2. 治癒，癒好 (VI)/(VT) (sein)/(haben)
+heilen heilte geheilt
+醫生說，她的疾病再也無法治癒了。
+Der Arzt hat gesagt, dass ihre Krankheit nicht mehr geheilt werden könnte.
+傷口很快就癒合了。
+Die Wunde heilt schnell.
+//noun
+可治癒的
+heilbar
+//VI
+名叫
+heißen hieß geheißen
+我的德語老師叫巴貝爾穆勒。
+Mein Deutschlehrer heißt Bärbel Müller.
+"cinema"用德語怎麼說?
+Wie heißt "cinema" auf Deutsch?
+//VT
+給...供暖 + etw(A)
+heizen heizte geheizt
+這套房子是用水供暖的。
+Die Wohnung ist durch Wasser geheizt.
+//noun
+供暖，暖氣
+die Heizung Heizungen
+//VI
+幫助某人做某事 + jm(D) bei etw(D)
+helfen half geholfen
+上週末他幫我搬家。
+Am letzten Wochenende half er mir beim Umzug.
+//noun
+幫助
+die Hilfe Hilfen
+//noun
+助手
+der Helfer Helfer
+//adj
+樂於助人的
+hilfsbereit
+//VT
+阻礙 + etw(A)
+hemmen hemmte gehemmt
+這起衝突阻礙了兩國之間進一步的合作。
+Der Konflikt hemmt die weitere Zusammenarbeit zwischen den beiden Ländern.
+//VT
+1. 阻礙，妨礙 + etw(A) 2. 妨礙某人做某事 + jn(A) ~, etw. zu tun
+hindern hinderte gehindert
+陳舊的觀念通常妨礙進步。
+Veraltete Ideen hindern oft Fortschritte.
+雷暴雨天氣妨礙了我們去郊遊。
+Das Gewitter hinderte uns, einen Ausflug zu machen.
+//noun
+障礙，妨礙
+das Hindernis Hindernisse
+//VI
+1. 希望得到 + auf etw(A) 2. 希望 + ~, dass ~
+hoffen hoffte gehofft
+我們希望有一個更加美好的未來。
+Wir hoffen auf eine bessere Zukunft.
+我希望你能很快回來。
+Ich hoffe, dass du bald zurückkommen könntest.
+//noun
+希望
+die Hoffnung Hoffnungen
+//adj
+但願
+hoffentlich
