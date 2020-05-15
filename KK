@@ -1,0 +1,73 @@
+//VT
+打掃 + etw(A)
+kehren kehrte gekehrt
+每天早上清潔員打掃庭院。
+Morgens kehrt die Putzfrau den Hof.
+//VT
+認識 + jn(A)/etw(A)
+kennen kannte gekannt
+你認識這個穿紅衣服的女士嗎?
+Kennst du die Frau in Rot?
+可惜許多單字我不認識。
+Viele Wörter kenne ich leider nicht.
+//VI
+埋怨，抱怨 + über etw(A)
+klagen klagte geklagt
+他經常抱怨工作量太大。
+Er klagt oft über zu viel Arbeit.
+//VI
+成功，完成
+klappen klappte geklappt
+終於成功了。
+Endlich hat es geklappt.
+//VI
+拍手，鼓掌
+klatschen klatschte geklatscht
+演出結束後所有的觀眾起立並且鼓掌。
+Nach der Aufführung standen und klatschten alle Zuschauer.
+//VT
+偷竊，扒竊 + etw(A)
+klauen klaute geklaut
+這個小偷扒竊了許多名貴包。
+Der Dieb hat viele teure Taschen geklaut.
+//VIT
+1. 黏貼 + etw(A) 2. 黏貼在
+kleben klebte geklebt
+他把郵票貼到信上。
+Er hat eine Briefmarke auf den Brief geklebt.
+門上貼著一張小紙條。
+An der Tür klebt ein Zettel.
+//VI
+1. 攀爬，攀登 + auf etw(A) 2. 上升，上漲 (sein)
+klettern kletterte geklettert
+本周末我們打算爬這座山。
+An diesem Wochenende wollen wir auf den Berg klettern.
+工資上漲了約10%。
+Die Löhne sind um etwa 10% geklettert.
+//VI
+點擊鼠標
+klicken klickte geklickt
+如果你想在網上購物的話，只要點擊鼠標即可。
+Wenn du online etwas kaufen willst, brauchst du nur zu klicken.
+//VI
+(鈴)響起
+klingeln klingelte geklingelt
+正當我們出門的時候，電話鈴響了。
+Als wir ausgingen, klingelte das Telefon.
+//VI
+聽起來 + adj.
+klingen klang geklungen
+這首歌聽起來很美妙。
+Das Lied klingt sehr schön.
+//VI
+敲門
+klopfen klopfte geklopft
+你有沒有聽見有人在敲門?
+Hörst du auch, dass jemand an die Tür klopft?
+//VI
+1. 來自於 + aus etw(D) 2. 去 (sein)
+kommen kam gekommen
+他的兄弟來自巴塞爾。
+Sein Bruder kommt aus Basel.
+你何時去他那裡?
+Wann kommst du zu ihm?

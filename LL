@@ -1,0 +1,79 @@
+//VTR
+1. 借給某人某物 + jm(D) etw(A) 2. 向某人借某物 + sich(D) etw(A) von jm(D)
+leihen lieh geliehen
+他把他的新車借給了我們。
+Er hat uns sein neues Auto geliehen.
+我向他借了一本書。
+Ich habe mir von ihm ein Buch geliehen.
+//VTR
+1. 買得起 + sich(D) etw(A) 2. 提供援助 + Hilfe 3. 對...做出貢獻 + einen Beitrag zu etw(D)
+leisten leistete geleistet
+你買得起一輛Benz嗎?
+Kannst du dir einen Benz leisten?
+護士們展開急救。
+Die Krankenschwestern hatten Erste Hilfe geleistet.
+教授對這個專業領域做出了重要貢獻。
+Der Professor hat einen großen Beitrag zu diesem Fachbereich geleistet.
+//noun
+成績，貢獻，功率
+die Leistung
+//VT
+領導 + etw(A)
+leiten leitete geleitet
+誰領導這個研究小組?
+Wer leitet diese Forschungsgruppe?
+//noun
+領導
+die Leitung Leitungen
+//noun
+領導者
+der Leiter Leiter
+//VT
+操縱，操控 + etw(A)
+lenken lenkte gelenkt
+你會開車嗎?
+Kannst du das Auto lenken?
+謀事在人，成事在天。
+Der Mensch denkt, (aber) der Gott lenkt.
+//VT
+1. 學習 + etw(A) 2. 學習做某事 + Inf.
+lernen lernte gelernt
+為了學習德語，她參加了一個語言班。
+Sie besucht einen Sprachkurs, um Deutsch zu lernen.
+業餘時間裡我打算學習烹飪。
+In der Freizeit will ich kochen lernen.
+//VT
+閱讀 + etw(A)
+lesen las gelesen
+這份報告你讀了嗎?
+Hast du diesen Bericht schon gelesen?
+//VT
+否認 + etw(A)
+leugnen leugnete geleugnet
+= dementieren(VT)(否認)
+小偷否認其偷竊行為。
+Der Dieb leugnete seinen Diebstahl.
+//VT
+1. 提供 + etw(A) 2. 給某人發貨 + jm(D) etw(A)
+liefern lieferte geliefert
+你能提供給我們有效的證明嗎?
+Kannst du uns gültige Beweise liefern?
+所有貨物應當立即發送。
+Alle Waren sollen sofort geliefert werden.
+//noun
+發貨
+die Lieferung Lieferungen
+//noun
+供貨商 (弱陽性)
+der Lieferant Lieferanten
+//VI
+1. 位於，地處 2. 躺著 3. 原因在於 + an etw(D)
+liegen lag gelegen
+法蘭克福位於慕尼黑西北250公里處。
+Frankfurt liegt 250 Kilometer nordwestlich von München.
+醫生說你得臥床休息。
+Der Arzt hat gesagt, dass du im Bett liegen musst.
+原因在於他開車太快了。
+Das liegt daran, dass er zu schnell gefahren ist.
+這全怪他。
+Es liegt nur an ihm.
