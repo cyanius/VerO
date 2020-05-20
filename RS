@@ -1,0 +1,87 @@
+//VI
+騎馬 (sein)/(haben)
+reiten ritt geritten
+你也會騎馬嗎?
+Kannst du auch mal reiten?
+我兄弟很喜歡騎馬。
+Mein Bruder reitet sehr gerne.
+//noun
+騎手
+der Reiter Reiter
+//VI
+快跑 (sein)
+rennen rannte gerannt
+所有人都奔向緊急出口。
+Alle waren zum Notausgang gerannt.
+//VT
+救援 + jn(A)/etw(A)
+retten rettete gerettet
+由於債務危機，對一些歐洲國家不得不進行財政援助。
+Wegen der Schuldenkrise müssen einige europäische Länder finanziell gerettet werden.
+為了救人，有三家直升飛機投入使用。
+Drei Hubschrauber sind im Einsatz, um die Menschen zu retten.
+//noun
+救援
+die Rettung Rettungen
+//VR
+視...而定 + sich(A) nach etw(D)
+richten richtete gerichtet
+= abhängen(VI)(取決於) ankommen(VI)(視...而定)
+我們的郊遊要視天氣情況而定。
+Unser Ausflug richtet sich nun nach dem Wetter.
+//noun
+方向
+die Richtung Richtungen
+//VI
+聞起來 + nach etw(D)
+riechen roch gerochen
+這東西聞起來像黃油。
+Das riecht nach Butter.
+//VI
+滾動 (sein)
+rollen rollte gerollt
+球很慢地滾進了球門。
+Der Ball war sehr langsam ins Tor gerollt.
+//VT
+感動 + jn(A)
+rühren rührte gerührt
+這部電影感動了我們所有人。
+Der Film hat uns alle gerührt.
+//VT
+1. 說 + etw(A) 2. 說 + ~, dass ~
+sagen sagte gesagt
+你說什麼?
+Was sagst du denn?
+這個男人說他能說很流利的德語。
+Der Mann sagt, dass er Deutsch gut sprechen kann.
+//VT
+1. 收集 + etw(A) 2. 積累 + etw(A)
+sammeln sammelte gesammelt
+我叔叔不僅收集郵票，而且還收集硬幣。
+Mein Onkel sammelt nicht nur Briefmarken, sondern auch Münzen.
+為了積累工作經驗，這位女大學生打算在假期中外出打工。
+Die Studentin will in den Semesterferien jobben, um Arbeitserfahrungen zu sammeln.
+//noun
+集合，收藏
+die Sammlung Sammlungen
+//noun
+收藏者
+der Sammler Sammler
+//VI
+危害，危及 + jm(D)/etw(D)
+schaden schadete geschadet
+所有人都知道，抽菸有害健康。
+Alle wissen, dass das Rauchen der Gesundheit schadet.
+//noun
+危害，損失
+der Schaden Schäden
+//adj
+有害的
+schädlich
+//VT
+1. 完成 + etw(A) 2. 創造 + etw(A)
+schaffen schaffte/schuf geschafft/geschaffen
+這個我們今天肯定無法完成。
+Das schaffen wir heute sicherlich nicht.
+這份合約為進一步的合作打下了一個堅實的基礎。
+Der Vertrag schafft eine solide Grundlage für weitere Zusammenarbeit.
