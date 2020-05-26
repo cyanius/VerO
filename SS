@@ -1,0 +1,79 @@
+//VT
+削...的皮 + etw(A)
+schälen schälte geschält
+你把蘋果皮削了?
+Hast du den Apfel geschält?
+//noun
+外殼，果皮
+die Schale Schalen
+//VR
+感到羞愧，羞恥 + sich(A)
+schämen schämte geschämt
+她因為偷了我的東西而感到羞恥。
+Sie schämt sich, weil sie mich bestohlen hat.
+//VT
+1. 將...估值為... + etw(A) auf etw(A) 2. 珍惜，珍視 + jn(A)/etw(A)
+schätzen schätzte geschätzt
+我估計這幅畫值2000歐元。
+Ich schätze das Gemälde auf 2.000 Euro.
+他十分珍惜我們多年來的友誼。
+Er schätzt unsere langjährige Freundschaft.
+//noun
+估計，估值
+die Schätzung Schätzungen
+//noun
+寶貝
+der Schatz
+//VIT
+瞧，看 + etw(A)
+schauen schaute geschaut
+你看，那裡出什麼事了?
+Schau mal, was ist dort los?
+//VR
+同...離婚 + sich(A) von jm(D) lassen (隱性被動)
+Sie will sich von ihrem Mann scheiden lassen.
+//noun
+分離，離婚
+die Scheidung Scheidungen
+//VI
+1. 陽光照耀 2. 貌似，似乎 + jm(D) 3. 貌似，好像 + etw. zu tun
+scheinen schien geschienen
+今天一整天都是晴天。
+Heute scheint die Sonne den ganzen Tag.
+這對我來說似乎不可思議。
+Es scheint mir unglaublich.
+他似乎又生病了。
+Er scheint wieder krank zu sein.
+//VI
+失敗，落空 (sein)
+scheitern scheiterte gescheitert
+可惜她的計畫夭折了。
+Ihr Plan ist leider gescheitert.
+//VT
+贈送 + jm(D) etw(A)
+schenken schenkte geschenkt
+你生日他送你什麼?
+Was schenkt er dir zum Geburtstag?
+//noun
+禮物
+das Geschenk Geschenke
+//VT
+1. 將...寄給某人 + jm(D) etw(A) 2. 將某人派往某地 + jn(A) + R
+schicken schickte geschickt
+請您將您的簡歷通過電子郵件發送給我!
+Schicken Sie mir Ihren Lebenslauf per E-Mail!
+許多父母將他們的孩子們送出國。
+Viele Eltern haben ihre Kinder ins Ausland geschickt.
+//VI
+謾罵 + mit jm(D)
+schimpfen schimpfte geschimpft
+老師不能罵學生。
+Der Lehrer darf nicht mit den Schülern schimpfen.
+//VI
+睡覺，睡著
+schlafen schlief geschlafen
+正當我睡覺的時候，電話鈴響了。
+Als ich schlief, läutete das Telefon.
+//noun
+睡眠
+der Schlaf
